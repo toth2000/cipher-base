@@ -22,7 +22,8 @@
   "homepage": "https://github.com/crypto-browserify/cipher-base#readme",
   "dependencies": {
     "inherits": "^2.0.1",
-    "safe-buffer": "^5.0.1"
+    "safe-buffer": "^5.0.1",
+    "stream-browserify": "^3.0.0"
   },
   "devDependencies": {
     "standard": "^10.0.2",
